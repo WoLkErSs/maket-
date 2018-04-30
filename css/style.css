@@ -1,0 +1,110 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	padding: 0;
+	margin: 30px auto;
+	font-family: Arial, sant-serif;
+	width: 500px;
+	text-align:center;
+}
+
+p{
+	text-align: left;
+}
+
+h1 {
+	margin: 15px auto;
+	font-style: italic;
+}
+
+h2{
+	color: #53BD8F;
+	font-size: 20px;
+	letter-spacing: 5px; 
+}
+
+h3 {
+	font-weight: 2px;
+}
+
+h4{
+	vertical-align: middle;
+	text-align: right;
+	display: inline-block;
+}
+
+.trubka{
+	display: inline-block;
+	float: left;
+}
+
+.compare {
+	display: inline-block;
+	float: right;
+	width: 75px;
+	font-size: 12px;
+}
+
+.vesi
+{
+	margin: 0 auto;
+}
+
+.class {
+	margin: 0 auto;
+}
+
+.deliver {
+	margin: 10px auto;
+	width: 400px;
+	height: 40px;
+	background-color: #56C195;
+	color: white;
+	line-height: 40px;
+	border: 2px solid #F2E8E9;
+}
+
+.car {
+	width: 40px;
+	height: 40px;
+	vertical-align: top;
+}
+
+.buys {
+	margin: 5px auto 20px;
+}
+.buy_in_a_click {
+	
+	display: inline-block;
+	background-color: #3BC383;
+	width: 100px;
+	height:60px;
+	vertical-align: top;
+	line-height: 25px;
+	font-size: 15px;
+	color: white;
+}
+
+.buy {
+	color: white;
+	display: inline-block;
+	background-color: #F6A75C;
+	width: 350px;
+	height:60px;
+	line-height: 60px;
+}
+
+.credit {
+	margin:20px auto;
+}
+
+footer {
+	margin: 20px auto;
+}
+
+.clear {
+	clear: both;
+}
